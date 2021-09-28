@@ -1,0 +1,195 @@
+*{
+	font-family: 'Work Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.navbar {
+	font-weight: bold;
+	box-shadow: 0 0 5px;
+}
+.btn{
+     margin-right: 30px;
+}
+.search{
+	width: 500px;
+	margin-left: 200px;
+}
+      /*Banner section*/
+ #banner{
+   height: 370px;
+  background-color:#F5F5F5;
+  padding: 7% 15%;
+  margin-top: 20px;
+}
+
+.banner-section {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.banner-txt{
+	color:  #808080;
+    font-family: 'Fredericka the Great', cursive;
+	text-align: center;
+}
+.swiggy{
+	width: 150px;
+	margin-left: 380px;
+}
+.intern{
+	margin-left: 380px;
+	width: 200px;
+}
+.skills{
+	margin-left: 380px;
+	width: 180px;
+}
+         /*INTERNSHIPS SECTION */
+#internship{
+	height: 600px;
+}
+.internship-section{
+	padding-top: 30px ;
+	padding-left: 50px;
+}
+.intern-title{
+	font-weight: bolder;
+}
+.sub-heading{
+	display: inline-flex;
+	font-weight: bolder;
+	}
+.intern-link{
+	padding-left: 700px;
+	text-decoration: none;
+}
+.city{
+	margin-top: 40px;
+	padding-bottom: 20px;
+    font-weight: bolder;
+}
+     /*IMAGES*/
+.container-fluid{
+     	display: flex;
+     }
+.cards{
+     	text-align: center;
+     	padding: 16px 4px 24px;
+     	border-radius: 6px;
+     	margin: 10px 7px;
+        width: 140px;
+     	height: 156px;
+     }
+.cards:hover{
+	box-shadow: 0 0 3px ;
+}
+.img-icons{
+		 text-decoration: none;
+		 color: black;
+		 font-weight: bolder;
+}
+.wfh{
+	padding-top: 20px;
+	width: 80px;
+}
+       /*INTERNSHALA-SECTION*/
+#internshala{
+	height: 400px;
+}
+.internshala-section{
+	margin-top: 70px;
+	padding-top: 30px ;
+	padding-left: 50px;
+}
+p{
+	font-size: 15px;
+	text-align: center;
+}
+      /*FRESHERS JOB SECTION*/
+
+#fresher{
+	height: 400px;
+}
+.fresher-jobs{
+	padding-top: 30px ;
+	padding-left: 50px;
+}
+ .jobs{
+     	text-align: center;
+     	padding: 16px 4px 24px;
+     	border-radius: 6px;
+     	margin: 10px 7px;
+        width: 140px;
+     	height: 156px;
+       margin-right: 100px;
+     }
+.para{
+     color: black;
+     font-weight: bolder;
+ }
+     /*FOOTER*/
+#footer{
+	height: 400px;
+    background-color:#2A272A;
+}
+
+.footer-class{
+	padding-top: 30px ;
+	padding-left: 50px;
+}
+.container-fluid{
+     	display: inline-flex;
+     }
+ .places{
+        text-align: left;
+        margin-top: 20px;
+        margin-right: 100px;
+     	}
+ .stream{
+        text-align: left;
+        margin-top: 20px;
+        margin-right: 100px;
+ }
+ .trainings{
+        text-align: left;
+        margin-top: 20px;
+        margin-right: 100px;
+ }
+ .aboutus{
+ 	    margin-top: 20px;
+ 	    text-align: left;
+ }
+   .para1{
+     color: white;
+     font-weight: 700;
+     text-align: left;
+     width: 150px;
+ }
+  .places1{
+ 	text-decoration: none;
+		 color: white;
+		 margin-bottom: 20px;
+ }
+ .places1:hover{
+ 	color: white;
+ }
+ .line{
+ 	color: white;
+ }
+ .media{
+ 		margin-top: 5px;
+ }
+.social-media{
+	padding-left: 10px;
+	font-size: 20px;
+	color: white;
+}
+.social-media:hover{
+	color: whitesmoke;
+}
+.cc{
+	margin-top: 5px;
+	margin-left: 600px;
+}
+.copyright{
+	color: white;
+}
